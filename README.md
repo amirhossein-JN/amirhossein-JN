@@ -1,4 +1,7 @@
 <!-- ================= HERO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+Welcome+To+My+Profile+%F0%9F%9F%A2" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=>>>+Booting+System...;>>>+Loading+Developer+Profile...;>>>+Access+Granted+✔;>>>+Amirhossein+is+Online;>>>+Initializing+Skills+Module..." />
@@ -9,7 +12,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Amirhossein</h1>
+
 
 <p align="center">
   🚀 Frontend Developer | 💛 Python Developer | ⚛️ React Enthusiast | 💻 C++ Programmer
