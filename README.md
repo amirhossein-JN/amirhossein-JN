@@ -1,5 +1,8 @@
 <!-- ================= HERO ================= -->
 <p align="center">
+  <img src="assets/matrix.gif" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=>>>+Booting+System...;>>>+Loading+Developer+Profile...;>>>+Access+Granted+✔;>>>+Amirhossein+is+Online;>>>+Initializing+Skills+Module..." />
 </p>
 
