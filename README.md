@@ -275,7 +275,11 @@ Every star motivates me to build more useful and better software.
 <p align="center">
 
 <a href="https://t.me/IDIAmir">
-<img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  
+</a>
+  <a href="mailto:amir.hossein.ebrahimi.jz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
