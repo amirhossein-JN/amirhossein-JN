@@ -49,7 +49,28 @@
 Become a professional Software Engineer and AI Developer while contributing to open-source projects.
 
 ---
+# 🚀 Featured Repositories
 
+### 🌐 Web Projects
+> Frontend development projects using HTML, CSS, JavaScript and React.
+
+🔗 https://github.com/amirhossein-JN/web-projects
+
+---
+
+### 🐍 Python Projects
+> Python scripts, applications and AI experiments.
+
+🔗 https://github.com/amirhossein-JN/python-projects
+
+---
+
+### ⚡ C++ Projects
+> Algorithms, data structures and software engineering projects.
+
+🔗 https://github.com/amirhossein-JN/cpp-projects
+
+---
 ## 📄 Profile Summary
 
 <p align="center">
