@@ -1,55 +1,54 @@
-# <!-- ================= HERO ================= -->
+# <p align="center">⚡ Welcome to My GitHub Profile ⚡</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=Hi+👋+Welcome+To+My+Profile+🟢" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:00ff99&text=Amirhossein%20Ebrahimi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Python%20Developer%20|%20AI%20Enthusiast&descAlignY=58"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=>>>+Booting+System...;>>>+Loading+Developer+Profile...;>>>+Access+Granted+✔;>>>+Amirhossein+is+Online;>>>+Initializing+Skills+Module..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=00FF99&center=true&vCenter=true&width=900&lines=👋+Hi+There!;Welcome+To+My+GitHub+Profile;Frontend+Developer;Python+Developer;Artificial+Intelligence+Enthusiast;Robotics+Lover;React+Developer;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://komarev.com/ghpvc/?username=amirhossein-JN&style=for-the-badge&color=00ff99"/>
+<img src="https://img.shields.io/github/followers/amirhossein-JN?style=for-the-badge&color=00ff99"/>
+<img src="https://img.shields.io/github/stars/amirhossein-JN?style=for-the-badge&color=00ff99"/>
 </p>
 
 <p align="center">
-  🚀 Frontend Developer | 💛 Python Developer | ⚛️ React Enthusiast | 💻 C++ Programmer
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirhossein-JN&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
-</p>
+# 👨‍💻 About Me
 
----
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 👨‍💻 About Me
+### Hello! I'm Amirhossein 👋
 
-<p align="center">
+🎓 Student of **Computer Networks & Software Engineering**
 
-🎓 <b>Amirhossein Ebrahimi</b><br><br>
+🏫 **Allameh Helli 7 (SAMPAD)**
 
-Student of <b>Computer Networks & Software Engineering</b><br>
-at <b>Allameh Helli 7 (SAMPAD)</b>.
+💻 Passionate about building modern applications and solving real-world problems.
 
-<br>
+🤖 Interested in:
 
-💻 Passionate about Software Development, Artificial Intelligence and Robotics.
+* Artificial Intelligence
+* Robotics
+* Software Engineering
+* Frontend Development
+* Open Source
 
-<br>
+🚀 Currently Learning
 
-🚀 Experienced with
+* React
+* Advanced JavaScript
+* Python
+* Data Structures & Algorithms
+* Clean Architecture
 
-Python • C++ • HTML • CSS • JavaScript • React
+🎯 My Goal
 
-<br>
-
-🤖 Familiar with AI tools and always learning through practical projects.
-
-<br>
-
-🎯 My goal is to build modern applications, write clean code, contribute to open source, and continuously improve my skills.
-
-</p>
+Become a professional Software Engineer and AI Developer while contributing to open-source projects.
 
 ---
 
@@ -98,47 +97,60 @@ Python • C++ • HTML • CSS • JavaScript • React
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
 ```text
-🔹 Frontend Development
-🔹 React Ecosystem
-🔹 Artificial Intelligence
-🔹 Python Projects
-🔹 Competitive Programming
-🔹 Software Architecture
+██████████████████░░░░  Frontend Development
+
+████████████████░░░░░░  Python
+
+█████████████░░░░░░░░░  React
+
+████████████░░░░░░░░░░  Artificial Intelligence
+
+███████████░░░░░░░░░░░  Problem Solving
 ```
-
 ---
 
-## 📊 GitHub Activity Graph
+# 🌟 Fun Facts
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhossein-JN&theme=tokyo-night"/>
-</p>
+* ☕ Coffee makes debugging easier.
+* 🚀 I love building useful projects.
+* 🤖 AI fascinates me.
+* 🌍 I enjoy learning new technologies.
+* 💻 Clean code is my favorite style.
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amirhossein-JN&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+# 📅 Contribution Calendar
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhossein-JN&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-JN&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://ghchart.rshah.org/00ff99/amirhossein-JN" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# ⚡ Coding Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amirhossein-JN&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirhossein-JN&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirhossein-JN&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirhossein-JN&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirhossein-JN&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirhossein-JN&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -163,16 +175,77 @@ Python • C++ • HTML • CSS • JavaScript • React
 * 💼 Become a Full-Stack Developer
 
 ---
+# 📖 Timeline
 
-## 📬 Contact Me
+```text
+2023  █████ Started Programming
+
+2024  █████ HTML • CSS • Python
+
+2025  █████ JavaScript • React • Git
+
+2026  █████ AI • Robotics • Open Source
+```
+---
+
+# 📖 Currently Reading
+
+* 📘 Clean Code
+* 📗 Python Crash Course
+* 📕 Eloquent JavaScript
+* 📙 Hands-On Machine Learning
+
+---
+# 💼 Soft Skills
+
+```text
+✔ Problem Solving
+
+✔ Team Work
+
+✔ Fast Learner
+
+✔ Communication
+
+✔ Time Management
+
+✔ Critical Thinking
+
+✔ Self Learning
+
+✔ Leadership
+```
+# ⚡ Daily Routine
+
+```text
+☕ Coffee          ███████████████
+
+💻 Coding          ██████████████████████
+
+📚 Learning        █████████████████
+
+🎧 Music           ███████████
+
+😴 Sleep           ███████
+```
+
+---
+
+# 🎯 Motto
 
 <p align="center">
 
-<a href="https://t.me/IDIAmir">
-<img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+## "Stay Curious. Keep Building. Never Stop Learning."
 
 </p>
+
+---
+
+# ❤️ Support
+
+If you enjoy my projects, consider giving them a ⭐.
+
+Every star motivates me to build more useful and better software.
 
 ---
 
@@ -186,14 +259,41 @@ Python • C++ • HTML • CSS • JavaScript • React
 
 ---
 
-## ✨ Thanks for Visiting
+# ⭐ Thank You ⭐
+
+### Thanks for visiting my profile.
+
+### I hope you enjoyed it!
+
+### Happy Coding! 🚀
+
+</p>
+---
+
+## 📬 Contact Me
 
 <p align="center">
 
-⭐ If you like my projects, don't forget to leave a Star ⭐
+<a href="https://t.me/IDIAmir">
+<img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
-<br>
+</p>
 
-💀 Built with ❤️ by **Amirhossein Ebrahimi**
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;See+you+again!;Happy+Coding!+🚀;Keep+Learning!;Build+Something+Awesome!"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💚 Built with ❤️ by Amirhossein Ebrahimi
+
+</p>
 
 </p>
