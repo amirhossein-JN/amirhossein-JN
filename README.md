@@ -293,7 +293,7 @@ Every star motivates me to build more useful and better software.
 
 <p align="center">
 
-<a href="https://t.me/IDIAmir">
+<a href="https://t.me/Voxmanl">
 <img src="https://img.shields.io/badge/Telegram%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   
 </a>
