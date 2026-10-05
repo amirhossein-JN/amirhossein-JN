@@ -1,9 +1,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:00ff99&text=Amirhossein%20Ebrahimi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Python%20Developer%20|%20AI%20Enthusiast&descAlignY=58"/>
-</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=00FF99&center=true&vCenter=true&width=900&lines=👋+Hi+There!;Welcome+To+My+GitHub+Profile;Frontend+Developer;Python+Developer;Artificial+Intelligence+Enthusiast;Robotics+Lover;React+Developer;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=00FF99&center=true&vCenter=true&width=900&lines=👋+Hi+There!;Welcome+To+My+GitHub+Profile;Software+Developer;Web+Designer;Python+Developer;Artificial+Intelligence+Enthusiast;Robotics+Lover;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
@@ -18,22 +17,22 @@
 
 # 👨‍💻 About Me
 
-
-
 ### Hello! I'm Amirhossein 👋
 
 🎓 Student of **Computer Networks & Software Engineering**
 
 🏫 **Allameh Helli 7 (SAMPAD)**
 
-💻 Passionate about building modern applications and solving real-world problems.
+💻 Passionate about software development, web design, artificial intelligence, robotics, and solving real-world problems.
 
 🤖 Interested in:
 
 * Artificial Intelligence
+* Computer Vision
 * Robotics
 * Software Engineering
-* Frontend Development
+* Web Development
+* Algorithms & Problem Solving
 * Open Source
 
 🚀 Currently Learning
@@ -42,16 +41,47 @@
 * Advanced JavaScript
 * Python
 * Data Structures & Algorithms
+* Machine Learning & AI
 * Clean Architecture
 
 🎯 My Goal
 
-Become a professional Software Engineer and AI Developer while contributing to open-source projects.
+Become a professional Software Engineer and AI Developer while building practical intelligent systems and contributing to open-source projects.
 
 ---
+
+# 🏆 Achievements
+
+### 🥇 1st Place — RoboCupJunior Rescue Simulation League
+
+**Nova Team**
+
+Achieved **1st place at the national level** in the RoboCupJunior Rescue Simulation competition as a member of the **Nova** team.
+
+Worked on simulated autonomous rescue robotics using **Webots/Erebus**, including navigation, sensor processing, mapping, path planning, obstacle detection, exploration, and computer vision.
+
+---
+
+### 🥉 3rd Place — RoboCup Soccer Simulation 3D League
+
+**Binary Union**
+
+Achieved **3rd place** in the **RoboCup Soccer Simulation 3D League** as a member of the **Binary Union** team.
+
+---
+
 # 🚀 Featured Repositories
 
+### 🤖 Binary Union — RoboCup Soccer Simulation 3D
+
+> RoboCup Soccer Simulation 3D project developed as a member of the Binary Union team.
+
+🏆 **3rd Place — RoboCup Soccer Simulation 3D League**
+
+---
+
 ### 🌐 Web Projects
+
 > Frontend development projects using HTML, CSS, JavaScript and React.
 
 🔗 https://github.com/amirhossein-JN/web-projects
@@ -59,6 +89,7 @@ Become a professional Software Engineer and AI Developer while contributing to o
 ---
 
 ### 🐍 Python Projects
+
 > Python scripts, applications and AI experiments.
 
 🔗 https://github.com/amirhossein-JN/python-projects
@@ -66,18 +97,22 @@ Become a professional Software Engineer and AI Developer while contributing to o
 ---
 
 ### ⚡ C++ Projects
+
 > Algorithms, data structures and software engineering projects.
 
 🔗 https://github.com/amirhossein-JN/cpp-projects
 
 ---
-## 📄 Profile Summary
+
+# 📄 Profile Summary
 
 <p align="center">
 
-🎓 Computer Networks & Software Student
+🎓 Computer Networks & Software Engineering Student
 
-💻 Frontend Developer
+💻 Software Developer
+
+🌐 Web Designer
 
 🐍 Python Programmer
 
@@ -89,13 +124,13 @@ Become a professional Software Engineer and AI Developer while contributing to o
 
 📚 Lifelong Learner
 
-🌍 Open Source Contributor
+🌍 Open Source Enthusiast
 
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,python,cpp,vscode,linux&perline=10"/>
@@ -119,7 +154,7 @@ Become a professional Software Engineer and AI Developer while contributing to o
 # 🚀 Current Focus
 
 ```text
-██████████████████░░░░  Frontend Development
+██████████████████░░░░  Software Development
 
 ████████████████░░░░░░  Python
 
@@ -127,8 +162,9 @@ Become a professional Software Engineer and AI Developer while contributing to o
 
 ████████████░░░░░░░░░░  Artificial Intelligence
 
-███████████░░░░░░░░░░░  Problem Solving
+███████████░░░░░░░░░░░  Robotics & Computer Vision
 ```
+
 ---
 
 # 🌟 Fun Facts
@@ -140,6 +176,7 @@ Become a professional Software Engineer and AI Developer while contributing to o
 * 💻 Clean code is my favorite style.
 
 ---
+
 # 📅 Contribution Calendar
 
 <p align="center">
@@ -151,25 +188,17 @@ Become a professional Software Engineer and AI Developer while contributing to o
 # ⚡ Coding Activity
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirhossein-JN&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirhossein-JN&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirhossein-JN&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirhossein-JN&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirhossein-JN&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -185,15 +214,16 @@ Become a professional Software Engineer and AI Developer while contributing to o
 
 ---
 
-## 🎯 Goals 2026
+# 🎯 Goals 2026
 
 * 🚀 Build professional React projects
 * 🤖 Learn Machine Learning & AI
 * 📚 Master Data Structures & Algorithms
 * 🌍 Contribute to Open Source
-* 💼 Become a Full-Stack Developer
+* 💼 Grow as a Software Engineer
 
 ---
+
 # 📖 Timeline
 
 ```text
@@ -205,6 +235,7 @@ Become a professional Software Engineer and AI Developer while contributing to o
 
 2026  █████ AI • Robotics • Open Source
 ```
+
 ---
 
 # 📖 Currently Reading
@@ -215,6 +246,7 @@ Become a professional Software Engineer and AI Developer while contributing to o
 * 📙 Hands-On Machine Learning
 
 ---
+
 # 💼 Soft Skills
 
 ```text
@@ -233,19 +265,6 @@ Become a professional Software Engineer and AI Developer while contributing to o
 ✔ Self Learning
 
 ✔ Leadership
-```
-# ⚡ Daily Routine
-
-```text
-☕ Coffee          ███████████████
-
-💻 Coding          ██████████████████████
-
-📚 Learning        █████████████████
-
-🎧 Music           ███████████
-
-😴 Sleep           ███████
 ```
 
 ---
@@ -282,22 +301,31 @@ Every star motivates me to build more useful and better software.
 
 ### Thanks for visiting my profile.
 
-### I hope you enjoyed it!
-
 ### Happy Coding! 🚀
 
-</p>
 ---
 
 ## 📬 Contact Me
 
 <p align="center">
 
-<a href="https://t.me/Voxmanl">
-<img src="https://img.shields.io/badge/Telegram%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  
+<a href="https://www.linkedin.com/in/amir-hossein-ebrahimi-7a6369441/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  <a href="mailto:amir.hossein.ebrahimi.jz@gmail.com">
+
+<a href="https://amirhossein-jn.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Website-00FF99?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<a href="https://github.com/amirhossein-JN">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Voxmanl">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="mailto:amir.hossein.ebrahimi.jz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -306,9 +334,7 @@ Every star motivates me to build more useful and better software.
 ---
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;See+you+again!;Happy+Coding!+🚀;Keep+Learning!;Build+Something+Awesome!"/>
-
 </p>
 
 ---
@@ -316,7 +342,5 @@ Every star motivates me to build more useful and better software.
 <p align="center">
 
 ### 💚 Built with ❤️ by Amirhossein Ebrahimi
-
-</p>
 
 </p>
