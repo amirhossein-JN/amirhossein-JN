@@ -152,19 +152,74 @@ Achieved **3rd place** in the **RoboCup Soccer Simulation 3D League** as a membe
 
 ---
 
-# 🚀 Current Focus
+<h2 align="left">🚀 Current Focus</h2>
 
-```text
-██████████████████░░░░  Software Development
+<div align="left">
 
-████████████████░░░░░░  Python
+<table>
+<tr>
+<td align="left">
 
-█████████████░░░░░░░░░  React
+<b>🤖 Machine Learning</b>
 
-████████████░░░░░░░░░░  Artificial Intelligence
+████████████████████
 
-███████████░░░░░░░░░░░  Robotics & Computer Vision
-```
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+<b>👁️ Computer Vision</b>
+
+████████████████████
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+<b>🧠 Deep Learning</b>
+
+████████████████████
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+<b>🤖 Robotics & Autonomous Systems</b>
+
+████████████████████
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+<b>🏆 RoboCupJunior Rescue Simulation</b>
+
+████████████████████
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+<b>⚽ RoboCup Soccer Simulation 3D</b>
+
+████████████████████
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
