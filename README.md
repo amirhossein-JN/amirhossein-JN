@@ -22,7 +22,7 @@
 
 🎓 Student of **Computer Networks & Software Engineering**
 
-🏫 **Allameh Helli 7 (SAMPAD)**
+🏫 **Allameh Helli 7 National Organization for Development of Exceptional Talents (Sampad)**
 
 💻 Passionate about software development, web design, artificial intelligence, robotics, and solving real-world problems.
 
